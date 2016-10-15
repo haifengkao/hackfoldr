@@ -1,6 +1,7 @@
 # hackfoldr
 
-[![CI Status](http://img.shields.io/travis/Hai Feng Kao/hackfoldr.svg?style=flat)](https://travis-ci.org/Hai Feng Kao/hackfoldr)
+[![CI Status](http://img.shields.io/travis/haifengkao/hackfoldr.svg?style=flat)](https://travis-ci.org/haifengkao/hackfoldr)
+[![Coverage Status](https://coveralls.io/repos/haifengkao/hackfoldr/badge.svg?branch=master&service=github)](https://coveralls.io/github/haifengkao/hackfoldr?branch=master)
 [![Version](https://img.shields.io/cocoapods/v/hackfoldr.svg?style=flat)](http://cocoapods.org/pods/hackfoldr)
 [![License](https://img.shields.io/cocoapods/l/hackfoldr.svg?style=flat)](http://cocoapods.org/pods/hackfoldr)
 [![Platform](https://img.shields.io/cocoapods/p/hackfoldr.svg?style=flat)](http://cocoapods.org/pods/hackfoldr)

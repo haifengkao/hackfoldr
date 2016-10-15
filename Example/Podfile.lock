@@ -1,0 +1,19 @@
+PODS:
+  - hackfoldr (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - hackfoldr (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  hackfoldr:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hackfoldr: fa4237e013d48ef4812f275182688ef35d504a74
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: 1483b189c881039d97d92b9acdb139c99e38bca9
+
+COCOAPODS: 1.0.1

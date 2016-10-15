@@ -1,0 +1,6 @@
+framework module hackfoldr {
+  umbrella header "hackfoldr-umbrella.h"
+
+  export *
+  module * { export * }
+}
