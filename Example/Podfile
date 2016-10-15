@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'hackfoldr_Example' do
+  pod 'hackfoldr', :path => '../'
+
+  target 'hackfoldr_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
